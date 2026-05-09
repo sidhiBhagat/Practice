@@ -1,4 +1,3 @@
-## Profile
 
 ## SIDHI BHAGAT
 
