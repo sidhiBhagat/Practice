@@ -16,3 +16,15 @@ MCA, JECRC University
 AWS Cloud Practitioner
 AWS Developer Associate
 
+#Technical skills
+- C++
+- Python
+- React JS
+- AWS
+
+#Soft Skills
+- Adaptible
+- Team work
+- Punctual
+
+
